@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/coredns:1.0.1
+FROM k8s.gcr.io/coredns:1.0.1__amd64_linux
